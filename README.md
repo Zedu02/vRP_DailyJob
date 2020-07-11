@@ -1,7 +1,6 @@
 
-# fivem-scripts
------------------------------
-fivem-scripts ESX // vRP
+ vRP_DailyJob
+ 
 -----------------------------
 Discord: Zedu'#3304
 -----------------------------
